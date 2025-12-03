@@ -1,9 +1,3 @@
----
-title: Home
-nav_order: 1
----
-
-
 # Digital Toolkit Test
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
