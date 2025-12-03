@@ -1,7 +1,6 @@
 ---
 title: What is Big Data?
 parent: Big Data
-nav_order: 2
 ---
 
 # *What is big data?*
