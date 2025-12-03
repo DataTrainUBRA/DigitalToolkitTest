@@ -1,3 +1,9 @@
+---
+title:    Data protection and Licences
+
+nav_order: 4
+has_children: true
+ 
  #   Data protection and licences
 
 Data protection involves a set of laws and principles to safeguard personal information, while data licensing is a contractual agreement that permits the use of specific datasets.
