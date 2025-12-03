@@ -1,5 +1,5 @@
 ---
-title: Data protection and Licences
+title: Data protection and licences
 parent: Curriculum
 has_children: true
 ---
