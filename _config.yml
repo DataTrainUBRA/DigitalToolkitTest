@@ -1,7 +1,7 @@
 title: Digital Toolkit Test
 description: This is our first try to set up a curated collection of new and
 existing digital self-learning materials to make learning comfortable. 
-remote_theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs-template
 
 url: https://datatrainubra.github.io/DigitalToolkitTest
 
