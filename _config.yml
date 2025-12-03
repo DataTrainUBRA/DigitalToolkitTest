@@ -1,9 +1,9 @@
 title: Digital Toolkit Test
-description: It's our first try to set up a curated collection of new and
-existing digital self-learning materials to make learning comftable. 
+description: This is our first try to set up a curated collection of new and
+existing digital self-learning materials to make learning comfortable. 
 remote_theme: just-the-docs/just-the-docs
 
-url: https://datatrainubra.github.io/DigitalToolkitTest/
+url: https://datatrainubra.github.io/DigitalToolkitTest
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
