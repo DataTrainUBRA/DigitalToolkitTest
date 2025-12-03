@@ -1,6 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jekyll site using the Just the Docs theme!
-remote_theme: just-the-docs/just-the-docs
+title: Digital Toolkit Test
+description: It's our first try to set up a curated collection of new and
+existing digital self-learning materials to make learning comftable. 
+remote_theme: farhadg/just-the-docs
 
 url: https://datatrainubra.github.io/DigitalToolkitTest/
 
