@@ -4,7 +4,7 @@ parent: Curriculum
 has_children: true
 ---
  
-## Data protection and licences
+# Data protection and licences
 
 Data protection involves a set of laws and principles to safeguard personal information, while data licensing is a contractual agreement that permits the use of specific datasets.
 In the UK, many organizations must pay an annual "data protection fee" to the Information Commissioner's Office (ICO)
