@@ -1,6 +1,6 @@
 ---
 title: Data protection and Licences
-parent:Curriculum
+parent: Curriculum
 has_children: true
 ---
  
