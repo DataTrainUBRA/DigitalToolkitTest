@@ -33,3 +33,6 @@ Reinforcement learning is based on the principle of reward and punishment. An ag
 - **Applications:** Game control, autonomous vehicles.
 
 Machine learning is a rapidly evolving field with a wide range of applications and techniques that are continuously advancing and have the potential to revolutionize many industries.
+
+
+You can find further information [here](/Supervised Machine Learning.md).
